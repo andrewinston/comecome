@@ -1,0 +1,30 @@
+Para jogar o jogo, deve-se instalar a IDE do processing em: https://processing.org/
+em seguida, abra a IDE e abra o arquivo 'jogo.pde' basta agora apertar o botão de
+play na parte superior direita do processing.
+
+Durante o jogo existem 4 opções:
+
+Novo Jogo:
+Inicia o jogo. Para jogar basta usar as setas e comer as bolas que são menores que 
+o personagem
+
+Multiplayer:
+Ainda não funciona :(
+tentei usar a biblioteca padrão do processing para sockets, mas houve uma demora muito
+grande na resposta, o que me impediu de botar isso para funcionar.
+
+Instruções:
+É pra aprender a jogar.
+
+Recordes:
+Lá estarão todos os recordes do usuário. Dentro desse menu existe um outro menu que
+contém diversas estatísticas.
+
+Dicas:
+1. Pegue todos os itens que aparecerem parados na tela (atualmente foram implementados
+o escudo e o ímã).
+
+2. Para saber se a bola é menor que o boneco, basta se aproximar da bola e o boneco
+abrirá a boca.
+
+Veja meu currículo também!
