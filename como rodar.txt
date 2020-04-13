@@ -1,5 +1,5 @@
 Para jogar o jogo, deve-se instalar a IDE do processing em: https://processing.org/
-em seguida, abra a IDE e abra o arquivo 'jogo.pde' basta agora apertar o botão de
+em seguida, abra a IDE e abra o arquivo 'comecome.pde' basta agora apertar o botão de
 play na parte superior direita do processing.
 
 Durante o jogo existem 4 opções:
